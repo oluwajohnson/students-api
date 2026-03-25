@@ -5,10 +5,10 @@
     "description": "Project 2 API",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "https://students-api-hy38.onrender.com/students",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/students/": {
