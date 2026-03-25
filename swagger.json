@@ -5,7 +5,7 @@
     "description": "Project 2 API",
     "version": "1.0.0"
   },
-  "host": "https://students-api-hy38.onrender.com/students",
+  "host": "https://students-api-hy38.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
