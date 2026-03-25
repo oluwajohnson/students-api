@@ -1,0 +1,57 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@email.com",
+      "age": 22,
+      "course": "Computer Science",
+      "gpa": 3.5,
+      "enrollmentDate": "2024-01-10"
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Abiodun",
+      "email": "johnabiodun@email.com",
+      "age": 23,
+      "course": "Art Science",
+      "gpa": 3.5,
+      "enrollmentDate": "2024-01-10"
+    },
+    {
+      "firstName": "Lola",
+      "lastName": "Seun",
+      "email": "lola@email.com",
+      "age": 44,
+      "course": "Computer Science",
+      "gpa": 3.2,
+      "enrollmentDate": "2024-01-10"
+    },
+    {
+      "firstName": "Wale",
+      "lastName": "Ona",
+      "email": "wale@email.com",
+      "age": 20,
+      "course": "Computer Science",
+      "gpa": 3.5,
+      "enrollmentDate": "2024-01-11"
+    },
+    {
+      "firstName": "Seun",
+      "lastName": "Oba",
+      "email": "seun@email.com",
+      "age": 24,
+      "course": "Computer Science",
+      "gpa": 3.5,
+      "enrollmentDate": "2024-01-10"
+    },
+    {
+      "firstName": "Gbede",
+      "lastName": "Ola",
+      "email": "gbede5@email.com",
+      "age": 25,
+      "course": "Computer Science",
+      "gpa": 3.5,
+      "enrollmentDate": "2024-01-10"
+    }
+  
+]
